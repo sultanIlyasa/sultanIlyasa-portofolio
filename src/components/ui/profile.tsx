@@ -37,7 +37,7 @@ const ProfileComponent = () => {
           <CardContent>
             <CardDescription>
               <p className="text-xs md:text-base lg:text-left">
-                I'm a 4th-year Computer Science student passionate about
+                I&apos;m a 4th-year Computer Science student passionate about
                 software engineering and ML-driven business solutions. With
                 experience in teaching, website management, and national
                 competitions, I excel at bridging technology and business to
