@@ -39,13 +39,15 @@ const ProfileComponent = () => {
               <p className="text-xs md:text-base lg:text-left text-justify">
                 I&apos;m a 4th-year Computer Science student passionate about
                 software engineering and ML-driven business solutions. With
-                experience in teaching, website development and management, I'm
-                happy to bridge technology and business to create impactful,
-                sustainable solutions. I'm currently working on my final thesis
-                on "Fine-tuned Transformer Architecture for Mental Health Chatbot".
+                experience in teaching, website development and management,
+                I&apos;m happy to bridge technology and business to create
+                impactful, sustainable solutions. I&apos;m currently working on
+                my final thesis on &quot;Fine-tuned Transformer Architecture for
+                Mental Health Chatbot&quot;.
               </p>
               <p className="text-xs md:text-base lg:text-center mt-2 pt-2 border-t-2 border-gray-300 text-black">
-                "Aspiring to make your life easier, one line of code at a time."
+                &quot;Aspiring to make your life easier, one line of code at a
+                time.&quot;
               </p>
             </CardDescription>
           </CardContent>
